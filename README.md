@@ -1,7 +1,7 @@
 # curso-node-tabla
 Mis pininos en node
 
-#Notas:
+# Notas:
 Este es mi primer app programa en Node
 
 ```
